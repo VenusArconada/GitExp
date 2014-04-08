@@ -1,1 +1,2 @@
-README now has text. These changes must be visible to the repository.
+This is the new verion of the README file.
+Hey.
